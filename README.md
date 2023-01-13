@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to Mishecks gitHub profile. I'm a Database Engineer turned Fullstack Developer. Can't Wait to work together :)
 
 <!--
 **SirLiomish/SirLiomish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
