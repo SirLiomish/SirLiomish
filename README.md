@@ -1,16 +1,28 @@
-### Hi there 👋 Welcome to Mishecks gitHub profile. I'm a Database Engineer turned Fullstack Developer. Can't Wait to work together :)
+---
 
-<!--
-**SirLiomish/SirLiomish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Misheck Kumwenda
 
-Here are some ideas to get you started:
+### Full-Stack Developer | Database Engineer | Data Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm Misheck Kumwenda, a passionate and dedicated software developer with a strong focus on full-stack development and database engineering. My expertise spans across several key technologies and frameworks, allowing me to deliver robust and scalable solutions.
+
+## 🔧 **Technologies & Skills**
+
+### **Web Development**
+- **Laravel**: Building secure, maintainable, and scalable web applications.
+- **Spring Boot**: Developing enterprise-level applications with Java.
+
+### **Mobile Development**
+- **Flutter**: Crafting beautiful and responsive cross-platform mobile apps.
+
+### **Database Engineering**
+- **Data Warehousing**: Designing and implementing data warehouses to support business intelligence and analytics.
+- **ETL Pipelines**: Developing efficient ETL (Extract, Transform, Load) processes for data integration and transformation.
+- **SQL & NoSQL**: Expertise in both relational and non-relational database management systems.
+
+### **Data Visualization**
+- **Power BI & Tableau**: Integrating data visualization tools with data warehouses to create insightful and actionable reports.
+
+## 📫 **Get in Touch**
+- **Email**: mlkumwenda@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/misheck-kumwenda-b9548315b/
